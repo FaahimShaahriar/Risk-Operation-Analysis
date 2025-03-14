@@ -1,8 +1,8 @@
 **🚨 Risk & Operational Analysis 🚨**
 
 Welcome to the Risk & Operational Analysis project! This repository focuses on advanced data analysis aimed at preventing risk and fraud within operations. The project utilizes Power BI to present key operational metrics and conducts in-depth analysis using complex DAX queries for data cleaning and transformation.
-**
-📂 Project Files**
+
+**📂 Project Files**
 
 Here’s a breakdown of the key files in this project:
 
@@ -23,8 +23,8 @@ A PDF version of the Power BI dashboard for easy sharing and offline viewing.
 Power BI: For creating interactive dashboards and visualizations.
 DAX: For complex data cleaning, transformation, and analysis.
 CSV/Excel: For data storage and manipulation.
-**
-🔍 Project Overview**
+
+**🔍 Project Overview**
 
 This project aims to perform advanced data analysis with the following objectives:
 
